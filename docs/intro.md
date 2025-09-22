@@ -35,7 +35,7 @@ Protekt is built for developers who want reliable, secure, and easy-to-integrate
 
 ## Quick Start
 
-1. Sign up for a Protekt account at [dashboard.protekt.dev](dashboard.protekt.dev)
+1. Sign up for a Protekt account at [dashboard.protekt.dev](/docs/intro)
 2. Create a project in the dashboard to get your unique `CLIENT_ID` and `CLIENT_SECRET`.
 3. Install the SDK for your platform (JavaScript, Python, or Node.js).
 
@@ -62,4 +62,4 @@ auth.login();
 ## Next Steps
 
 - Read the [Authentication Flow Guide](/docs/features/multi-factor-auth) to understand how Protekt handles sessions and tokens.
-- Check out the [API Reference](/docs/features/api) for detailed endpoint documentation.
+- Check out the [API Reference](/docs/intro) for detailed endpoint documentation.
